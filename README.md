@@ -54,9 +54,8 @@
 <div align="center">
 
 ### lagi dengerin apa
-<!-- GANTI SPOTIFY_ID_KAMU dengan ID Spotify kamu. Cara dapetin: buka spotify -> share profile -> copy link -->
 <a href="https://open.spotify.com/user/31rkrstswjls7llxf2uw5lv5qyvu">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rkrstswjls7llxf2uw5lv5qyvu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rkrstswjls7llxf2uw5lv5qyvu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=53b14f&bar_color_cover=true" />
 </a>
 
 </div>
