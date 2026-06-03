@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F78ACB&center=true&vCenter=true&width=600&lines=Mahasiswa+Informatika+UNAND;Backend+Laravel+%7C+PHP+Enthusiast;Padang%2C+Indonesia;Ngopi+dulu%2C+baru+debug)](https://git.io/typing-svg)
 </div>
 
-<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAi/bongo-cat-transparent.gif" width="130" alt="bongo cat" />
+<img align="right" src="https://raw.githubusercontent.com/ABSphreak/master/gifs/bongo-cat.gif" width="130" />
 
 ### halo, aku jovantri 👋
 - lagi fokus belajar web development, terutama Laravel & Breeze
