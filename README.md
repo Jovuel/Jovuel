@@ -32,7 +32,9 @@
 <div align="center">
 
 ### trophy case
-<img src="https://github-profile-trophy.vercel.app/?username=Jovuel&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jovuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jovuel&theme=onedark&no-frame=true&no-bg=true&column=6" />
 
 </div>
 
